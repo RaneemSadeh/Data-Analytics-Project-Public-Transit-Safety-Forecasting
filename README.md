@@ -72,6 +72,9 @@ Transit_Safety_Forecasting/
 - Optimize feature selection for better accuracy.
 - Improve hyperparameter tuning for LSTM.
 
-## License
-This project is licensed under the MIT License.
+Thanks All :)
+Raneem Sadeh
+
+![image](https://github.com/user-attachments/assets/f84ddfca-9296-4e0c-b49f-6e038821a708)
+
 

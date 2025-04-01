@@ -1,4 +1,5 @@
 # Public Transit Safety Forecasting
+![image](https://github.com/user-attachments/assets/a6066f41-3e54-444f-a438-10b8114483b3)
 
 ## Project Overview
 This project applies predictive analytics to forecast the total number of injuries in a public transit system. The objective is to enhance safety measures by identifying key influencing factors and applying time-series forecasting models.
@@ -7,6 +8,8 @@ This project applies predictive analytics to forecast the total number of injuri
 The project follows a structured approach:
 1. **Feature Selection:** Identified optimal predictors using:
    - SelectKBest
+     ![image](https://github.com/user-attachments/assets/8f1530a1-0530-491d-8716-9bc588f8e971)
+
    - Recursive Feature Elimination (RFE)
 2. **Time-Series Forecasting Models:** Applied three models:
    - Simple Moving Average (SMA)
@@ -14,6 +17,8 @@ The project follows a structured approach:
    - Long Short-Term Memory (LSTM)
 3. **Model Evaluation:** Compared performance using:
    - Mean Squared Error (MSE)
+     ![image](https://github.com/user-attachments/assets/1e412b40-f0c2-41f1-a9a9-765fe9510b70)
+
    - R-squared Score (R²)
 4. **Visualization:** Presented results using:
    - Line charts for trends  
@@ -53,6 +58,8 @@ Transit_Safety_Forecasting/
 - Python 3.x
 - NumPy
 - Pandas
+  ![image](https://github.com/user-attachments/assets/13ed120a-ab5e-410a-a9e8-ebd304b4f7be)
+  
 - Scikit-learn
 - TensorFlow/Keras (for LSTM)
 - Matplotlib & Seaborn
